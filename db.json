@@ -1,0 +1,1051 @@
+{
+  "categories": [
+    {
+      "name": "all",
+      "display_name": "全部商品"
+    },
+    {
+      "name": "fresh_veggies",
+      "display_name": "新鲜蔬菜"
+    },
+    {
+      "name": "seasonal_fruits",
+      "display_name": "时令水果"
+    },
+    {
+      "name": "meat_products",
+      "display_name": "肉类制品"
+    },
+    {
+      "name": "dairy_bakery",
+      "display_name": "乳品烘焙"
+    },
+    {
+      "name": "oil_instant_food",
+      "display_name": "油品速食"
+    },
+    {
+      "name": "family_utilities",
+      "display_name": "家居日用"
+    },
+    {
+      "name": "beauty_products",
+      "display_name": "美妆护肤"
+    },
+    {
+      "name": "snacks",
+      "display_name": "零食小吃"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "price": 3.99,
+      "sales_count": 200,
+      "title": "新鲜有机菠菜",
+      "description": "我们的有机菠菜富含维生素和矿物质，是健康饮食的完美选择。无论是生吃还是烹饪，这些菠菜都能为您的餐点增添营养和美味。选用我们的新鲜菠菜，让您的身体获得大自然的馈赠。",
+      "specifications": "每袋200克",
+      "category": "fresh_veggies",
+      "thumbnail_url": "https://example.com/spinach.jpg"
+    },
+    {
+      "id": 2,
+      "price": 5.99,
+      "sales_count": 150,
+      "title": "甜美红提",
+      "description": "这些红提颗粒饱满，色泽艳丽，每一口都能品尝到阳光的味道。无论是作为健康小食还是装饰餐桌，这些红提都是不二之选。让这些甜美多汁的红提，为您的生活带来一抹亮色。",
+      "specifications": "每盒500克",
+      "category": "seasonal_fruits",
+      "thumbnail_url": "https://example.com/grapes.jpg"
+    },
+    {
+      "id": 3,
+      "price": 12.99,
+      "sales_count": 80,
+      "title": "优质猪肉馅",
+      "description": "我们的猪肉馅选自优质猪肉，肉质鲜嫩，口感细腻。无论是包饺子还是制作肉丸，这款猪肉馅都能让您的料理更上一层楼。品尝这款上好猪肉馅，感受大自然的馈赠。",
+      "specifications": "每包500克",
+      "category": "meat_products",
+      "thumbnail_url": "https://example.com/pork.jpg"
+    },
+    {
+      "id": 4,
+      "price": 8.99,
+      "sales_count": 120,
+      "title": "新鲜牛奶",
+      "description": "我们的牛奶来自快乐健康的奶牛，品质纯正，口感香醇。无论是直接饮用还是用于烘焙，这款牛奶都能为您的饮食带来营养和美味。让这一杯新鲜牛奶，开启您美好的一天。",
+      "specifications": "每瓶1升",
+      "category": "dairy_bakery",
+      "thumbnail_url": "https://example.com/milk.jpg"
+    },
+    {
+      "id": 5,
+      "price": 22.99,
+      "sales_count": 60,
+      "title": "意大利橄榄油",
+      "description": "这款来自意大利的特级初榨橄榄油，色泽金黄，口感丰富。无论是煎炒还是沙拉，这款橄榄油都能让您的料理更添风味。品味这款上等橄榄油，感受地中海的阳光气息。",
+      "specifications": "每瓶750毫升",
+      "category": "oil_instant_food",
+      "thumbnail_url": "https://example.com/oliveoil.jpg"
+    },
+    {
+      "id": 6,
+      "price": 16.99,
+      "sales_count": 90,
+      "title": "多用途清洁剂",
+      "description": "这款多用途清洁剂能有效去除各种顽固污渍，让您的家居焕然一新。无论是厨房还是浴室，这款清洁剂都能提供优异的清洁效果。让这款多用途清洁剂，成为您打扫卫生的好帮手。",
+      "specifications": "每瓶500毫升",
+      "category": "family_utilities",
+      "thumbnail_url": "https://example.com/cleaner.jpg"
+    },
+    {
+      "id": 7,
+      "price": 29.99,
+      "sales_count": 50,
+      "title": "玫瑰精华面膜",
+      "description": "这款蕴含玫瑰精华的面膜能深层滋养肌肤，让您的肌肤更显光泽和弹性。规律使用这款面膜，让您的肌肤时刻保持最佳状态。让这款玫瑰精华面膜，成为您护肤routine中不可或缺的一部分。",
+      "specifications": "每盒5片",
+      "category": "beauty_products",
+      "thumbnail_url": "https://example.com/facemask.jpg"
+    },
+    {
+      "id": 8,
+      "price": 4.99,
+      "sales_count": 180,
+      "title": "酥脆薯片",
+      "description": "这些薯片薄脆可口，一口接一口停不下来。无论是独自享用还是与朋友分享，这些薯片都能带来满满的欢乐时光。品尝这些美味薯片，让您的生活更添趣味。",
+      "specifications": "每包150克",
+      "category": "snacks",
+      "thumbnail_url": "https://example.com/chips.jpg"
+    },
+    {
+      "id": 9,
+      "price": 2.99,
+      "sales_count": 250,
+      "title": "新鲜生菜",
+      "description": "我们的生菜新鲜爽口，富含多种维生素和矿物质。无论是制作沙拉还是作为汉堡的配料，这款生菜都能为您的餐点增添营养和美味。选择我们的新鲜生菜，让您的身体获得大自然的呵护。",
+      "specifications": "每颗约250克",
+      "category": "fresh_veggies",
+      "thumbnail_url": "https://example.com/lettuce.jpg"
+    },
+    {
+      "id": 10,
+      "price": 6.99,
+      "sales_count": 120,
+      "title": "香甜蜜瓜",
+      "description": "这些蜜瓜个头均匀，甜度高，每一口都能品尝到夏日的味道。无论是作为清爽甜点还是制作果汁，这些蜜瓜都是上佳选择。让这些香甜多汁的蜜瓜，为您的夏日带来清凉滋味。",
+      "specifications": "每个约1.5公斤",
+      "category": "seasonal_fruits",
+      "thumbnail_url": "https://example.com/melon.jpg"
+    },
+    {
+      "id": 11,
+      "price": 18.99,
+      "sales_count": 70,
+      "title": "优质牛腱子",
+      "description": "我们的牛腱子肉质紧实，口感弹嫩。无论是炖煮还是炒制，这款牛腱子都能让您的料理更添美味。品尝这款上好牛腱子，感受舌尖上的美味盛宴。",
+      "specifications": "每包600克",
+      "category": "meat_products",
+      "thumbnail_url": "https://example.com/beef.jpg"
+    },
+    {
+      "id": 12,
+      "price": 10.99,
+      "sales_count": 100,
+      "title": "新鲜鸡蛋",
+      "description": "我们的鸡蛋来自健康快乐的母鸡，每一个鸡蛋都晶莹剔透，蛋黄浓郁。无论是煎蛋还是烘焙，这款鸡蛋都能为您的饮食带来营养和美味。让这一枚新鲜鸡蛋，为您的一天增添能量。",
+      "specifications": "每盒15枚",
+      "category": "dairy_bakery",
+      "thumbnail_url": "https://example.com/eggs.jpg"
+    },
+    {
+      "id": 13,
+      "price": 15.99,
+      "sales_count": 80,
+      "title": "泰国香米",
+      "description": "这款来自泰国的香米，米粒晶莹剔透，煮熟后香气四溢。无论是搭配咖喱还是制作炒饭，这款香米都能让您的料理锦上添花。品尝这款优质香米，感受来自泰国的米香味。",
+      "specifications": "每袋5公斤",
+      "category": "oil_instant_food",
+      "thumbnail_url": "https://example.com/rice.jpg"
+    },
+    {
+      "id": 14,
+      "price": 12.99,
+      "sales_count": 110,
+      "title": "超柔卫生纸",
+      "description": "这款超柔卫生纸质地柔软，亲肤舒适。无论是日常使用还是呵护您的肌肤，这款卫生纸都能满足您的需求。让这款超柔卫生纸，成为您的居家必备品。",
+      "specifications": "每提12卷",
+      "category": "family_utilities",
+      "thumbnail_url": "https://example.com/tissue.jpg"
+    },
+    {
+      "id": 15,
+      "price": 24.99,
+      "sales_count": 60,
+      "title": "芦荟舒缓保湿凝胶",
+      "description": "这款蕴含芦荟精华的保湿凝胶能深层滋润肌肤，让您的肌肤更显水润和弹性。无论是日常护理还是舒缓晒后肌肤，这款凝胶都能提供贴心呵护。让这款芦荟舒缓保湿凝胶，成为您护肤routine中的神奇一员。",
+      "specifications": "每瓶300毫升",
+      "category": "beauty_products",
+      "thumbnail_url": "https://example.com/aloe.jpg"
+    },
+    {
+      "id": 16,
+      "price": 6.99,
+      "sales_count": 150,
+      "title": "巧克力曲奇",
+      "description": "这些曲奇口感酥脆，巧克力味浓郁。无论是下午茶还是作为礼物，这些曲奇都能带来甜蜜享受。品尝这些美味曲奇，让您的生活更添温馨。",
+      "specifications": "每盒200克",
+      "category": "snacks",
+      "thumbnail_url": "https://example.com/cookies.jpg"
+    },
+    {
+      "id": 17,
+      "price": 4.5,
+      "sales_count": 180,
+      "title": "新鲜青椒",
+      "description": "我们的青椒新鲜爽脆，色泽鲜艳。无论是炒菜还是制作沙拉，这款青椒都能为您的餐点增添色彩和营养。选择我们的新鲜青椒，让您的菜肴更添风味。",
+      "specifications": "每斤约4-5个",
+      "category": "fresh_veggies",
+      "thumbnail_url": "https://example.com/greenpeppers.jpg"
+    },
+    {
+      "id": 18,
+      "price": 7.99,
+      "sales_count": 100,
+      "title": "香甜芒果",
+      "description": "这些芒果个头饱满，汁多甜美，每一口都能品尝到夏日的味道。无论是直接食用还是制作芒果沙冰，这些芒果都是不二之选。让这些香甜多汁的芒果，为您的夏日带来热带风情。",
+      "specifications": "每个约300克",
+      "category": "seasonal_fruits",
+      "thumbnail_url": "https://example.com/mango.jpg"
+    },
+    {
+      "id": 19,
+      "price": 21.99,
+      "sales_count": 60,
+      "title": "优质三文鱼",
+      "description": "我们的三文鱼肉质鲜嫩，富含omega-3脂肪酸。无论是刺身还是煎烤，这款三文鱼都能让您的料理更添美味。品尝这款上好三文鱼，感受来自大海的新鲜滋味。",
+      "specifications": "每片约200克",
+      "category": "meat_products",
+      "thumbnail_url": "https://example.com/salmon.jpg"
+    },
+    {
+      "id": 20,
+      "price": 14.99,
+      "sales_count": 80,
+      "title": "高品质黄油",
+      "description": "我们的黄油采用新鲜优质的奶油制成，口感香醇，易涂抹。无论是烘焙还是日常涂抹面包，这款黄油都能让您的味蕾得到满足。让这款高品质黄油，成为您餐桌上不可或缺的美味。",
+      "specifications": "每块200克",
+      "category": "dairy_bakery",
+      "thumbnail_url": "https://example.com/butter.jpg"
+    },
+    {
+      "id": 21,
+      "price": 9.99,
+      "sales_count": 120,
+      "title": "日式味噌汤",
+      "description": "这款来自日本的即食味噌汤，汤料丰富，味道醇厚。只需加热即可食用，非常便捷。品尝这款美味味噌汤，感受来自日本的传统滋味。",
+      "specifications": "每盒6小包",
+      "category": "oil_instant_food",
+      "thumbnail_url": "https://example.com/miso.jpg"
+    },
+    {
+      "id": 22,
+      "price": 19.99,
+      "sales_count": 70,
+      "title": "多功能清洁抹布",
+      "description": "这款多功能清洁抹布柔软吸水，能有效去除各种污渍。无论是厨房还是浴室，这款抹布都能提供优异的清洁效果。让这款多功能清洁抹布，成为您打扫卫生的得力助手。",
+      "specifications": "每包4条",
+      "category": "family_utilities",
+      "thumbnail_url": "https://example.com/cloths.jpg"
+    },
+    {
+      "id": 23,
+      "price": 32.99,
+      "sales_count": 50,
+      "title": "玻尿酸精华液",
+      "description": "这款蕴含玻尿酸的精华液能深层补水，让您的肌肤更显水嫩和弹性。规律使用这款精华液，让您的肌肤时刻保持最佳状态。让这款玻尿酸精华液，成为您护肤routine中的必备品。",
+      "specifications": "每瓶30毫升",
+      "category": "beauty_products",
+      "thumbnail_url": "https://example.com/serum.jpg"
+    },
+    {
+      "id": 24,
+      "price": 5.99,
+      "sales_count": 160,
+      "title": "香脆腰果",
+      "description": "这些腰果颗粒饱满，口感酥脆。无论是当做日常小零食还是搭配沙拉，这些腰果都是上佳选择。品尝这些美味腰果，为您的生活增添健康能量。",
+      "specifications": "每包150克",
+      "category": "snacks",
+      "thumbnail_url": "https://example.com/cashews.jpg"
+    },
+    {
+      "id": 25,
+      "price": 3.5,
+      "sales_count": 220,
+      "title": "新鲜胡萝卜",
+      "description": "我们的胡萝卜新鲜甜美，富含胡萝卜素。无论是生吃还是烹饪，这些胡萝卜都能为您的餐点增添营养和色彩。选择我们的新鲜胡萝卜，让您的身体获得大自然的馈赠。",
+      "specifications": "每袋500克",
+      "category": "fresh_veggies",
+      "thumbnail_url": "https://example.com/carrots.jpg"
+    },
+    {
+      "id": 26,
+      "price": 8.99,
+      "sales_count": 90,
+      "title": "多汁柠檬",
+      "description": "这些柠檬皮薄多汁，酸甜适中。无论是用于泡茶还是烹饪，这些柠檬都能为您的饮食带来清新滋味。让这些多汁鲜嫩的柠檬，为您的生活增添一抹亮色。",
+      "specifications": "每袋6个",
+      "category": "seasonal_fruits",
+      "thumbnail_url": "https://example.com/lemons.jpg"
+    },
+    {
+      "id": 27,
+      "price": 16.99,
+      "sales_count": 75,
+      "title": "优质去骨鸡腿肉",
+      "description": "我们的鸡腿肉鲜嫩多汁，去骨处理，方便烹饪。无论是炒制还是炖煮，这款鸡腿肉都能让您的料理更添美味。品尝这款上好鸡腿肉，感受舌尖上的鲜美享受。",
+      "specifications": "每包400克",
+      "category": "meat_products",
+      "thumbnail_url": "https://example.com/chicken.jpg"
+    },
+    {
+      "id": 28,
+      "price": 12.99,
+      "sales_count": 90,
+      "title": "新鲜酸奶",
+      "description": "我们的酸奶采用新鲜优质的牛奶发酵而成，口感细腻，味道香醇。无论是直接食用还是搭配水果麦片，这款酸奶都能为您的饮食增添营养和美味。让这一杯新鲜酸奶，为您的一天带来活力。",
+      "specifications": "每罐500克",
+      "category": "dairy_bakery",
+      "thumbnail_url": "https://example.com/yogurt.jpg"
+    },
+    {
+      "id": 29,
+      "price": 18.99,
+      "sales_count": 65,
+      "title": "意式番茄罐头",
+      "description": "这款来自意大利的番茄罐头，采用成熟番茄制成，番茄味浓郁，酸甜适中。无论是制作意面还是焗烤，这款番茄罐头都能让您的料理更具意式风情。品尝这款优质番茄罐头，感受来自意大利的美味。",
+      "specifications": "每罐400克",
+      "category": "oil_instant_food",
+      "thumbnail_url": "https://example.com/tomatoes.jpg"
+    },
+    {
+      "id": 30,
+      "price": 6.99,
+      "sales_count": 130,
+      "title": "超浓缩洗衣液",
+      "description": "这款超浓缩洗衣液洁净力强，能有效去除各种顽固污渍。低泡配方，易漂无残留。让这款超浓缩洗衣液，成为您洗衣的好帮手。",
+      "specifications": "每瓶1升",
+      "category": "family_utilities",
+      "thumbnail_url": "https://example.com/detergent.jpg"
+    },
+    {
+      "id": 31,
+      "price": 27.99,
+      "sales_count": 55,
+      "title": "焕肤磨砂膏",
+      "description": "这款含有天然磨砂颗粒的磨砂膏能深层清洁肌肤，去除老化角质。规律使用这款磨砂膏，让您的肌肤更显光泽和细腻。让这款焕肤磨砂膏，成为您护肤routine中不可或缺的一部分。",
+      "specifications": "每罐120克",
+      "category": "beauty_products",
+      "thumbnail_url": "https://example.com/scrub.jpg"
+    },
+    {
+      "id": 32,
+      "price": 3.99,
+      "sales_count": 200,
+      "title": "美味鱼肉肠",
+      "description": "这些鱼肉肠采用优质鱼肉制成，口感Q弹，鱼肉味浓郁。无论是直接食用还是煮粥炒菜，这些鱼肉肠都是不错的选择。品尝这些美味鱼肉肠，让您的生活更添美味。",
+      "specifications": "每包250克",
+      "category": "snacks",
+      "thumbnail_url": "https://example.com/fishsausage.jpg"
+    },
+    {
+      "id": 33,
+      "price": 2.5,
+      "sales_count": 280,
+      "title": "新鲜西红柿",
+      "description": "我们的西红柿新鲜多汁，富含多种维生素和矿物质。无论是生吃还是烹饪，这些西红柿都能为您的餐点增添营养和色彩。选择我们的新鲜西红柿，让您的身体获得大自然的滋养。",
+      "specifications": "每斤约3-4个",
+      "category": "fresh_veggies",
+      "thumbnail_url": "https://example.com/tomatoes.jpg"
+    },
+    {
+      "id": 34,
+      "price": 9.99,
+      "sales_count": 80,
+      "title": "香甜菠萝",
+      "description": "这些菠萝个头饱满，果肉鲜嫩，每一口都能品尝到阳光的味道。无论是直接食用还是制作菠萝酥，这些菠萝都是上佳选择。让这些香甜多汁的菠萝，为您的夏日带来热带风情。",
+      "specifications": "每个约1公斤",
+      "category": "seasonal_fruits",
+      "thumbnail_url": "https://example.com/pineapple.jpg"
+    },
+    {
+      "id": 35,
+      "price": 23.99,
+      "sales_count": 55,
+      "title": "优质羊肉卷",
+      "description": "我们的羊肉卷肉质鲜嫩，口感细腻。无论是炒制还是烧烤，这款羊肉卷都能让您的料理更添美味。品尝这款上好羊肉卷，感受独特的羊肉风味。",
+      "specifications": "每包500克",
+      "category": "meat_products",
+      "thumbnail_url": "https://example.com/lambrolls.jpg"
+    },
+    {
+      "id": 36,
+      "price": 16.99,
+      "sales_count": 70,
+      "title": "手工乳酪",
+      "description": "这款手工乳酪采用优质牛奶制作，口感细腻，味道香醇。无论是直接食用还是制作甜点，这款乳酪都能让您的味蕾得到满足。让这款手工乳酪，成为您餐桌上不可或缺的美味。",
+      "specifications": "每块200克",
+      "category": "dairy_bakery",
+      "thumbnail_url": "https://example.com/cheese.jpg"
+    },
+    {
+      "id": 37,
+      "price": 14.99,
+      "sales_count": 90,
+      "title": "日式辣味拉面",
+      "description": "这款来自日本的辣味拉面，面条劲道，汤料辣而不燥。只需加热即可食用，非常便捷。品尝这款美味辣味拉面，感受来自日本的地道滋味。",
+      "specifications": "每盒5小包",
+      "category": "oil_instant_food",
+      "thumbnail_url": "https://example.com/noodles.jpg"
+    },
+    {
+      "id": 38,
+      "price": 11.99,
+      "sales_count": 100,
+      "title": "超强去污洗碗液",
+      "description": "这款超强去污洗碗液能轻松去除顽固油污，让您的餐具光亮如新。温和配方，不伤手。让这款超强去污洗碗液，成为您洗碗的好帮手。",
+      "specifications": "每瓶500毫升",
+      "category": "family_utilities",
+      "thumbnail_url": "https://example.com/dishsoap.jpg"
+    },
+    {
+      "id": 39,
+      "price": 34.99,
+      "sales_count": 45,
+      "title": "补水修护眼霜",
+      "description": "这款蕴含多种营养成分的眼霜能有效淡化眼部细纹，改善眼周肌肤状态。规律使用这款眼霜，让您的双眸更显年轻和神采奕奕。让这款补水修护眼霜，成为您护肤routine中的贴心呵护。",
+      "specifications": "每瓶15毫升",
+      "category": "beauty_products",
+      "thumbnail_url": "https://example.com/eyecream.jpg"
+    },
+    {
+      "id": 40,
+      "price": 7.99,
+      "sales_count": 130,
+      "title": "酥脆鱼肉薯条",
+      "description": "这些鱼肉薯条外脆里嫩，鱼肉味浓郁。无论是当做日常小零食还是搭配啤酒，这些鱼肉薯条都是上佳选择。品尝这些美味鱼肉薯条，让您的生活更添乐趣。",
+      "specifications": "每包180克",
+      "category": "snacks",
+      "thumbnail_url": "https://example.com/fishchips.jpg"
+    },
+    {
+      "id": 41,
+      "price": 4.99,
+      "sales_count": 160,
+      "title": "新鲜茄子",
+      "description": "我们的茄子新鲜饱满，紫色光泽，口感细嫩。无论是煎炒还是烧烤，这些茄子都能为您的餐点增添营养和美味。选择我们的新鲜茄子，让您的菜肴更添风味。",
+      "specifications": "每斤约2-3个",
+      "category": "fresh_veggies",
+      "thumbnail_url": "https://example.com/eggplant.jpg"
+    },
+    {
+      "id": 42,
+      "price": 11.99,
+      "sales_count": 70,
+      "title": "香甜桃子",
+      "description": "这些桃子个头饱满，果肉鲜嫩多汁，每一口都能品尝到夏日的甜蜜。无论是直接食用还是制作甜点，这些桃子都是不二之选。让这些香甜可口的桃子，为您的夏日带来悦目滋味。",
+      "specifications": "每盒4个",
+      "category": "seasonal_fruits",
+      "thumbnail_url": "https://example.com/peaches.jpg"
+    },
+    {
+      "id": 43,
+      "price": 19.99,
+      "sales_count": 65,
+      "title": "优质培根",
+      "description": "我们的培根肉质紧实，肥瘦相间，口感丰富。无论是煎食还是烘焙，这款培根都能让您的料理更添风味。品尝这款上好培根，感受舌尖上的美妙滋味。",
+      "specifications": "每包300克",
+      "category": "meat_products",
+      "thumbnail_url": "https://example.com/bacon.jpg"
+    },
+    {
+      "id": 44,
+      "price": 13.99,
+      "sales_count": 85,
+      "title": "新鲜酪乳",
+      "description": "我们的酪乳采用新鲜优质的牛奶发酵而成，口感顺滑，味道清新。无论是直接饮用还是搭配水果麦片，这款酪乳都能为您的饮食增添营养和美味。让这一杯新鲜酪乳，为您的一天带来活力。",
+      "specifications": "每瓶1升",
+      "category": "dairy_bakery",
+      "thumbnail_url": "https://example.com/kefir.jpg"
+    },
+    {
+      "id": 45,
+      "price": 16.99,
+      "sales_count": 75,
+      "title": "泰式青咖喱酱",
+      "description": "这款来自泰国的青咖喱酱，采用新鲜香料和椰奶制成，味道浓郁，香气扑鼻。无论是烹制咖喱还是炒饭，这款青咖喱酱都能让您的料理更具泰式风情。品尝这款正宗泰式青咖喱酱，感受来自泰国的独特滋味。",
+      "specifications": "每罐400克",
+      "category": "oil_instant_food",
+      "thumbnail_url": "https://example.com/greencurry.jpg"
+    },
+    {
+      "id": 46,
+      "price": 9.99,
+      "sales_count": 110,
+      "title": "厨房去污擦",
+      "description": "这款厨房去污擦能有效去除厨房油污，让您的厨房焕然一新。柔软耐用，易清洗。让这款厨房去污擦，成为您厨房清洁的好帮手。",
+      "specifications": "每包4片",
+      "category": "family_utilities",
+      "thumbnail_url": "https://example.com/kitchensponge.jpg"
+    },
+    {
+      "id": 47,
+      "price": 29.99,
+      "sales_count": 50,
+      "title": "亮白美齿牙膏",
+      "description": "这款蕴含多种美白成分的牙膏能有效去除牙渍，让您的牙齿更显洁白。规律使用这款牙膏，让您的笑容更加自信迷人。让这款亮白美齿牙膏，成为您口腔护理routine中的必备品。",
+      "specifications": "每支120克",
+      "category": "beauty_products",
+      "thumbnail_url": "https://example.com/toothpaste.jpg"
+    },
+    {
+      "id": 48,
+      "price": 6.99,
+      "sales_count": 140,
+      "title": "香脆海苔",
+      "description": "这些海苔采用优质海藻制成，口感酥脆，海味浓郁。无论是当做日常小零食还是搭配饭团，这些海苔都是上佳选择。品尝这些美味海苔，让您的生活更添健康滋味。",
+      "specifications": "每包50张",
+      "category": "snacks",
+      "thumbnail_url": "https://example.com/seaweed.jpg"
+    },
+    {
+      "id": 49,
+      "price": 5.5,
+      "sales_count": 135,
+      "title": "新鲜秋葵",
+      "description": "我们的秋葵新鲜嫩绿，口感清脆。无论是炒菜还是凉拌，这些秋葵都能为您的餐点增添营养和美味。选择我们的新鲜秋葵，让您的菜肴更添健康风味。",
+      "specifications": "每盒250克",
+      "category": "fresh_veggies",
+      "thumbnail_url": "https://example.com/okra.jpg"
+    },
+    {
+      "id": 50,
+      "price": 13.99,
+      "sales_count": 65,
+      "title": "香甜西瓜",
+      "description": "这些西瓜个头大，果肉鲜红多汁，每一口都能品尝到夏日的清凉。无论是直接食用还是榨汁，这些西瓜都是消暑解渴的不二之选。让这些香甜可口的西瓜，为您的夏日带来沁人心脾的甜蜜。",
+      "specifications": "每个约5-6公斤",
+      "category": "seasonal_fruits",
+      "thumbnail_url": "https://example.com/watermelon.jpg"
+    },
+    {
+      "id": 51,
+      "price": 22.99,
+      "sales_count": 60,
+      "title": "优质鸭肉",
+      "description": "我们的鸭肉肉质鲜嫩，皮脂丰富，口感香醇。无论是烤制还是炖煮，这款鸭肉都能让您的料理更添美味。品尝这款上好鸭肉，感受舌尖上的美妙滋味。",
+      "specifications": "每只约2公斤",
+      "category": "meat_products",
+      "thumbnail_url": "https://example.com/duck.jpg"
+    },
+    {
+      "id": 52,
+      "price": 11.99,
+      "sales_count": 90,
+      "title": "天然蜂蜜",
+      "description": "这款天然蜂蜜采自无污染的山林，蜜色金黄，味道甘甜。无论是直接食用还是用于烹饪，这款蜂蜜都能让您的味蕾得到满足。让这款天然蜂蜜，成为您餐桌上不可或缺的甜蜜滋味。",
+      "specifications": "每瓶500克",
+      "category": "dairy_bakery",
+      "thumbnail_url": "https://example.com/honey.jpg"
+    },
+    {
+      "id": 53,
+      "price": 18.99,
+      "sales_count": 70,
+      "title": "意式蘑菇面",
+      "description": "这款来自意大利的蘑菇面，口感丰富，蘑菇味浓郁。只需简单烹饪即可食用，非常便捷。品尝这款正宗意式蘑菇面，感受来自意大利的地道风味。",
+      "specifications": "每盒500克",
+      "category": "oil_instant_food",
+      "thumbnail_url": "https://example.com/mushroomspasta.jpg"
+    },
+    {
+      "id": 54,
+      "price": 14.99,
+      "sales_count": 80,
+      "title": "强力玻璃清洁剂",
+      "description": "这款强力玻璃清洁剂能有效去除玻璃表面的污渍和水垢，让您的玻璃窗焕然一新。易喷洒，快速干燥。让这款强力玻璃清洁剂，成为您家居清洁的好帮手。",
+      "specifications": "每瓶500毫升",
+      "category": "family_utilities",
+      "thumbnail_url": "https://example.com/glasscleaner.jpg"
+    },
+    {
+      "id": 55,
+      "price": 37.99,
+      "sales_count": 40,
+      "title": "抗皱紧致眼部精华",
+      "description": "这款蕴含多种抗衰老成分的眼部精华能有效改善眼部细纹和松弛问题，让您的眼周肌肤更显年轻紧致。规律使用这款眼部精华，让您的双眸更加明亮有神。让这款抗皱紧致眼部精华，成为您对抗岁月的秘密武器。",
+      "specifications": "每瓶30毫升",
+      "category": "beauty_products",
+      "thumbnail_url": "https://example.com/eyeserum.jpg"
+    },
+    {
+      "id": 56,
+      "price": 5.99,
+      "sales_count": 150,
+      "title": "香酥鸡肉条",
+      "description": "这些鸡肉条外酥里嫩，鸡肉味浓郁。无论是当做日常小零食还是聚会美食，这些鸡肉条都是上佳选择。品尝这些美味鸡肉条，让您的生活更添欢乐滋味。",
+      "specifications": "每包200克",
+      "category": "snacks",
+      "thumbnail_url": "https://example.com/chickensticks.jpg"
+    },
+    {
+      "id": 57,
+      "price": 3.99,
+      "sales_count": 180,
+      "title": "新鲜黄瓜",
+      "description": "我们的黄瓜新鲜爽脆，色泽翠绿。无论是凉拌还是煮汤，这些黄瓜都能为您的餐点增添清新和营养。选择我们的新鲜黄瓜，让您的菜肴更添健康美味。",
+      "specifications": "每斤约3-4根",
+      "category": "fresh_veggies",
+      "thumbnail_url": "https://example.com/cucumber.jpg"
+    },
+    {
+      "id": 58,
+      "price": 10.99,
+      "sales_count": 75,
+      "title": "香甜雪梨",
+      "description": "这些雪梨个头大，果肉细腻多汁，每一口都能品尝到秋日的丰收。无论是直接食用还是制作甜品，这些雪梨都是上乘之选。让这些香甜可口的雪梨，为您的秋日带来满满的甜蜜。",
+      "specifications": "每盒6个",
+      "category": "seasonal_fruits",
+      "thumbnail_url": "https://example.com/pears.jpg"
+    },
+    {
+      "id": 59,
+      "price": 20.99,
+      "sales_count": 70,
+      "title": "优质牛腩",
+      "description": "我们的牛腩肉质细嫩，肉味浓郁，适合长时间炖煮。无论是炖汤还是烧菜，这款牛腩都能让您的料理更添美味。品尝这款上好牛腩，感受舌尖上的温暖滋味。",
+      "specifications": "每包800克",
+      "category": "meat_products",
+      "thumbnail_url": "https://example.com/beefbrisket.jpg"
+    },
+    {
+      "id": 60,
+      "price": 15.99,
+      "sales_count": 80,
+      "title": "手工曲奇饼干",
+      "description": "这款手工曲奇饼干采用优质原料制作，口感酥脆，奶香浓郁。无论是搭配咖啡还是牛奶，这款曲奇饼干都能让您的味蕾得到满足。让这款手工曲奇饼干，成为您下午茶时光的美味陪伴。",
+      "specifications": "每盒300克",
+      "category": "dairy_bakery",
+      "thumbnail_url": "https://example.com/cookies.jpg"
+    },
+    {
+      "id": 61,
+      "price": 12.99,
+      "sales_count": 95,
+      "title": "韩式辣酱",
+      "description": "这款来自韩国的辣酱，辣味适中，口感丰富。无论是拌饭还是炒菜，这款辣酱都能让您的料理更具韩式风情。品尝这款正宗韩式辣酱，感受来自韩国的地道滋味。",
+      "specifications": "每瓶500克",
+      "category": "oil_instant_food",
+      "thumbnail_url": "https://example.com/gochujang.jpg"
+    },
+    {
+      "id": 62,
+      "price": 7.99,
+      "sales_count": 120,
+      "title": "强力管道疏通剂",
+      "description": "这款强力管道疏通剂能有效疏通厨房和浴室的堵塞管道，让您的排水系统畅通无阻。使用方便，效果显著。让这款强力管道疏通剂，成为您家居维护的好帮手。",
+      "specifications": "每瓶500毫升",
+      "category": "family_utilities",
+      "thumbnail_url": "https://example.com/draincleaner.jpg"
+    },
+    {
+      "id": 63,
+      "price": 42.99,
+      "sales_count": 35,
+      "title": "玻尿酸补水面膜",
+      "description": "这款蕴含玻尿酸的面膜能深层补水，让您的肌肤更显水嫩和弹性。规律使用这款面膜，让您的肌肤时刻保持最佳状态。让这款玻尿酸补水面膜，成为您护肤routine中的补水利器。",
+      "specifications": "每盒5片",
+      "category": "beauty_products",
+      "thumbnail_url": "https://example.com/hyaluronicmask.jpg"
+    },
+    {
+      "id": 64,
+      "price": 8.99,
+      "sales_count": 110,
+      "title": "酥脆虾条",
+      "description": "这些虾条采用新鲜虾肉制成，外酥里嫩，虾味浓郁。无论是当做日常小零食还是下酒菜，这些虾条都是上佳选择。品尝这些美味虾条，让您的生活更添海洋滋味。",
+      "specifications": "每包150克",
+      "category": "snacks",
+      "thumbnail_url": "https://example.com/shrimpsticks.jpg"
+    },
+    {
+      "id": 65,
+      "price": 4.99,
+      "sales_count": 150,
+      "title": "新鲜芹菜",
+      "description": "我们的芹菜新鲜爽脆，富含多种维生素和膳食纤维。无论是炒菜还是凉拌，这些芹菜都能为您的餐点增添营养和美味。选择我们的新鲜芹菜，让您的菜肴更添健康活力。",
+      "specifications": "每扎约500克",
+      "category": "fresh_veggies",
+      "thumbnail_url": "https://example.com/celery.jpg"
+    },
+    {
+      "id": 66,
+      "price": 12.99,
+      "sales_count": 70,
+      "title": "香甜火龙果",
+      "description": "这些火龙果个头大，果肉鲜红多汁，每一口都能品尝到热带的甜蜜。无论是直接食用还是制作果汁，这些火龙果都是上乘之选。让这些香甜可口的火龙果，为您的生活带来异国风情。",
+      "specifications": "每盒4个",
+      "category": "seasonal_fruits",
+      "thumbnail_url": "https://example.com/dragonfruit.jpg"
+    },
+    {
+      "id": 67,
+      "price": 24.99,
+      "sales_count": 60,
+      "title": "优质羊排",
+      "description": "我们的羊排肉质鲜嫩，油脂分布均匀，适合烧烤或煎食。无论是搭配沙拉还是制作羊排套餐，这款羊排都能让您的料理更添美味。品尝这款上好羊排，感受舌尖上的奢华滋味。",
+      "specifications": "每包600克",
+      "category": "meat_products",
+      "thumbnail_url": "https://example.com/lambchops.jpg"
+    },
+    {
+      "id": 68,
+      "price": 17.99,
+      "sales_count": 75,
+      "title": "鲜奶面包",
+      "description": "这款鲜奶面包采用新鲜牛奶制作，口感松软，奶香浓郁。无论是搭配果酱还是鸡蛋，这款面包都能让您的早餐更添营养和美味。让这款鲜奶面包，成为您早晨的美好开始。",
+      "specifications": "每个400克",
+      "category": "dairy_bakery",
+      "thumbnail_url": "https://example.com/milkbread.jpg"
+    },
+    {
+      "id": 69,
+      "price": 14.99,
+      "sales_count": 90,
+      "title": "意大利千层面",
+      "description": "这款来自意大利的千层面，口感丰富，番茄和奶酪的味道完美融合。只需简单加热即可食用，非常便捷。品尝这款正宗意式千层面，感受来自意大利的家常风味。",
+      "specifications": "每盒500克",
+      "category": "oil_instant_food",
+      "thumbnail_url": "https://example.com/lasagna.jpg"
+    },
+    {
+      "id": 70,
+      "price": 10.99,
+      "sales_count": 100,
+      "title": "超强去油洗洁精",
+      "description": "这款超强去油洗洁精能有效去除餐具和锅具上的顽固油污，让您的厨房用品焕然一新。温和配方，泡沫丰富。让这款超强去油洗洁精，成为您厨房清洁的好帮手。",
+      "specifications": "每瓶600毫升",
+      "category": "family_utilities",
+      "thumbnail_url": "https://example.com/dishwashingliquid.jpg"
+    },
+    {
+      "id": 71,
+      "price": 39.99,
+      "sales_count": 45,
+      "title": "玫瑰滋养护手霜",
+      "description": "这款蕴含玫瑰精华的护手霜能深层滋养手部肌肤，让您的双手更显润泽和柔嫩。规律使用这款护手霜，让您的双手时刻保持最佳状态。让这款玫瑰滋养护手霜，成为您手部护理routine中的贴心呵护。",
+      "specifications": "每瓶50克",
+      "category": "beauty_products",
+      "thumbnail_url": "https://example.com/handcream.jpg"
+    },
+    {
+      "id": 72,
+      "price": 6.99,
+      "sales_count": 130,
+      "title": "酥脆鱼豆腐",
+      "description": "这些鱼豆腐外酥里嫩，鱼肉味浓郁。无论是当做日常小零食还是下酒菜，这些鱼豆腐都是上佳选择。品尝这些美味鱼豆腐，让您的生活更添滋味。",
+      "specifications": "每包180克",
+      "category": "snacks",
+      "thumbnail_url": "https://example.com/fishtofu.jpg"
+    },
+    {
+      "id": 73,
+      "price": 3.5,
+      "sales_count": 200,
+      "title": "新鲜土豆",
+      "description": "我们的土豆新鲜饱满，富含多种维生素和矿物质。无论是炒菜还是煮汤，这些土豆都能为您的餐点增添营养和美味。选择我们的新鲜土豆，让您的菜肴更添家常风味。",
+      "specifications": "每斤约4-5个",
+      "category": "fresh_veggies",
+      "thumbnail_url": "https://example.com/potatoes.jpg"
+    },
+    {
+      "id": 74,
+      "price": 9.99,
+      "sales_count": 85,
+      "title": "香甜猕猴桃",
+      "description": "这些猕猴桃个头大，果肉细嫩多汁，每一口都能品尝到大自然的馈赠。无论是直接食用还是制作果酱，这些猕猴桃都是上乘之选。让这些香甜可口的猕猴桃，为您的生活带来健康滋味。",
+      "specifications": "每盒8个",
+      "category": "seasonal_fruits",
+      "thumbnail_url": "https://example.com/kiwis.jpg"
+    },
+    {
+      "id": 75,
+      "price": 27.99,
+      "sales_count": 55,
+      "title": "优质鸡翅",
+      "description": "我们的鸡翅肉质鲜嫩，翅骨轻薄。无论是炸制还是烤制，这款鸡翅都能让您的料理更添美味。品尝这款上好鸡翅，感受舌尖上的多汁滋味。",
+      "specifications": "每包1公斤",
+      "category": "meat_products",
+      "thumbnail_url": "https://example.com/chickenwings.jpg"
+    },
+    {
+      "id": 76,
+      "price": 19.99,
+      "sales_count": 65,
+      "title": "浓醇芝士蛋糕",
+      "description": "这款芝士蛋糕采用优质奶酪制作，口感丰富，芝士香浓。无论是作为甜点还是下午茶，这款蛋糕都能让您的味蕾得到满足。让这款浓醇芝士蛋糕，成为您生活中的甜蜜惊喜。",
+      "specifications": "每个6英寸",
+      "category": "dairy_bakery",
+      "thumbnail_url": "https://example.com/cheesecake.jpg"
+    },
+    {
+      "id": 77,
+      "price": 16.99,
+      "sales_count": 75,
+      "title": "日式照烧酱",
+      "description": "这款来自日本的照烧酱，口味浓郁，酸甜适中。无论是烤肉还是炒菜，这款照烧酱都能让您的料理更具日式风味。品尝这款正宗日式照烧酱，感受来自日本的地道滋味。",
+      "specifications": "每瓶400克",
+      "category": "oil_instant_food",
+      "thumbnail_url": "https://example.com/teriyakisauce.jpg"
+    },
+    {
+      "id": 78,
+      "price": 12.99,
+      "sales_count": 90,
+      "title": "多功能空气清新剂",
+      "description": "这款多功能空气清新剂能有效去除室内异味，让您的家居空间清新怡人。多种清香选择，持久留香。让这款多功能空气清新剂，成为您提升家居环境的好帮手。",
+      "specifications": "每瓶300毫升",
+      "category": "family_utilities",
+      "thumbnail_url": "https://example.com/airfreshener.jpg"
+    },
+    {
+      "id": 79,
+      "price": 34.99,
+      "sales_count": 50,
+      "title": "保湿修护润唇膏",
+      "description": "这款蕴含多种滋养成分的润唇膏能深层滋润双唇，让您的嘴唇更显柔软和水嫩。规律使用这款润唇膏，让您的双唇时刻保持最佳状态。让这款保湿修护润唇膏，成为您唇部护理routine中的必备品。",
+      "specifications": "每支5克",
+      "category": "beauty_products",
+      "thumbnail_url": "https://example.com/lipbalm.jpg"
+    },
+    {
+      "id": 80,
+      "price": 7.99,
+      "sales_count": 120,
+      "title": "香酥鱼排",
+      "description": "这些鱼排炸制酥脆，鱼肉鲜嫩多汁。无论是搭配薯条还是沙拉，这些鱼排都是上佳选择。品尝这些美味鱼排，让您的生活更添海洋风味。",
+      "specifications": "每包300克",
+      "category": "snacks",
+      "thumbnail_url": "https://example.com/fishfillets.jpg"
+    },
+    {
+      "id": 81,
+      "price": 5.99,
+      "sales_count": 140,
+      "title": "新鲜甜椒",
+      "description": "我们的甜椒新鲜爽脆，色泽鲜艳。无论是炒菜还是制作沙拉，这些甜椒都能为您的餐点增添色彩和营养。选择我们的新鲜甜椒，让您的菜肴更添健康美味。",
+      "specifications": "每斤约3-4个",
+      "category": "fresh_veggies",
+      "thumbnail_url": "https://example.com/bellpeppers.jpg"
+    },
+    {
+      "id": 82,
+      "price": 14.99,
+      "sales_count": 65,
+      "title": "香甜苹果",
+      "description": "这些苹果个头大，果肉脆嫩多汁，每一口都能品尝到大自然的甜蜜。无论是直接食用还是制作苹果派，这些苹果都是上乘之选。让这些香甜可口的苹果，为您的生活带来健康滋味。",
+      "specifications": "每盒8个",
+      "category": "seasonal_fruits",
+      "thumbnail_url": "https://example.com/apples.jpg"
+    },
+    {
+      "id": 83,
+      "price": 30.99,
+      "sales_count": 50,
+      "title": "优质鸭腿",
+      "description": "我们的鸭腿肉质鲜嫩，皮脆肉香。无论是烤制还是炖煮，这款鸭腿都能让您的料理更添美味。品尝这款上好鸭腿，感受舌尖上的奢华滋味。",
+      "specifications": "每包800克",
+      "category": "meat_products",
+      "thumbnail_url": "https://example.com/ducklegs.jpg"
+    },
+    {
+      "id": 84,
+      "price": 22.99,
+      "sales_count": 60,
+      "title": "法式黄油曲奇",
+      "description": "这款法式黄油曲奇采用优质黄油制作，口感酥松，奶香浓郁。无论是搭配咖啡还是茶，这款曲奇都能让您的味蕾得到满足。让这款法式黄油曲奇，成为您午后闲暇时光的美味陪伴。",
+      "specifications": "每盒250克",
+      "category": "dairy_bakery",
+      "thumbnail_url": "https://example.com/buttercookies.jpg"
+    },
+    {
+      "id": 85,
+      "price": 18.99,
+      "sales_count": 70,
+      "title": "意大利番茄酱",
+      "description": "这款来自意大利的番茄酱，采用成熟番茄制成，酱汁浓稠，番茄味浓郁。无论是拌面还是做披萨，这款番茄酱都能让您的料理更具意式风情。品尝这款正宗意大利番茄酱，感受来自意大利的地道滋味。",
+      "specifications": "每罐500克",
+      "category": "oil_instant_food",
+      "thumbnail_url": "https://example.com/tomatosauce.jpg"
+    }
+  ],
+  "new_products": [
+    {
+      "product_id": 1,
+      "thumbnail_url": "https://c8.alamy.com/comp/CF9DGC/strawberry-CF9DGC.jpg",
+      "price": 19.99,
+      "title": "新鲜丹东大草莓新鲜丹东大草莓 1盒装 500g"
+    },
+    {
+      "product_id": 2,
+      "thumbnail_url": "https://c8.alamy.com/comp/CF9DGC/strawberry-CF9DGC.jpg",
+      "price": 29.99,
+      "title": "国产黑猪肉国产黑猪肉 1斤装 500g 国产黑猪肉国产黑猪肉"
+    },
+    {
+      "product_id": 3,
+      "thumbnail_url": "https://c8.alamy.com/comp/CF9DGC/strawberry-CF9DGC.jpg",
+      "price": 39.99,
+      "title": "进口冷冻鱿鱼进口冷冻鱿鱼 盒装2只 1斤装 500g进口冷冻鱿鱼"
+    },
+    {
+      "product_id": 4,
+      "thumbnail_url": "https://c8.alamy.com/comp/CF9DGC/strawberry-CF9DGC.jpg",
+      "price": 39.99,
+      "title": "澳大利亚进口燕麦片 1盒装 500g澳大利亚进口燕麦片"
+    },
+    {
+      "product_id": 5,
+      "thumbnail_url": "https://c8.alamy.com/comp/CF9DGC/strawberry-CF9DGC.jpg",
+      "price": 39.99,
+      "title": "澳大利亚进口燕麦片 1盒装 500g澳大利亚进口燕麦片"
+    }
+  ],
+  "users": [
+    {
+      "username": "liang",
+      "password": "$2b$10$hZ6ruryVxldYxB22aJeYg.aKdZAVJ6GMfzUCd3Egclxwhc5Ehb5cq",
+      "id": 1,
+      "profile_url": "",
+      "address": [
+        {
+          "address_id": 1,
+          "name": "阿黑酱",
+          "phone": "123456789",
+          "address": "北京市海淀区西三环北路甲44号院",
+          "default": false
+        },
+        {
+          "address_id": 2,
+          "name": "阿黑酱",
+          "phone": "123456789",
+          "address": "北京市昌平区南邵镇风景丽苑68号",
+          "default": false
+        },
+        {
+          "name": "liang",
+          "phone": "110222",
+          "address": "test dasfdsknfkd",
+          "default": false,
+          "address_id": 3
+        },
+        {
+          "name": "hulu",
+          "phone": "2102",
+          "address": "sdnbbbd",
+          "default": true,
+          "address_id": "6045c8bc-0ac8-4d4d-95dd-4b353777e6f9"
+        }
+      ],
+      "vouchers": [
+        {
+          "voucher_id": 1,
+          "voucher_name": "满100减10",
+          "voucher_desc": "满100减10",
+          "voucher_price": 10
+        },
+        {
+          "voucher_id": 2,
+          "voucher_name": "满200减20",
+          "voucher_desc": "满200减20",
+          "voucher_price": 20
+        }
+      ],
+      "point": 100,
+      "order": [
+        {
+          "order_id": 1
+        },
+        {
+          "order_id": 2
+        }
+      ]
+    }
+  ],
+  "cart": [
+    {
+      "cart_id": 1,
+      "user_id": 1,
+      "products": [
+        {
+          "product_id": 2,
+          "count": 16
+        },
+        {
+          "product_id": 3,
+          "count": 9
+        },
+        {
+          "product_id": 6,
+          "count": 10
+        },
+        {
+          "product_id": 21,
+          "count": 1
+        }
+      ]
+    }
+  ],
+  "orders": [
+    {
+      "order_id": 1,
+      "user_id": 1,
+      "products": [
+        {
+          "product_id": 2,
+          "count": 16
+        },
+        {
+          "product_id": 3,
+          "count": 9
+        },
+        {
+          "product_id": 6,
+          "count": 10
+        }
+      ],
+      "shipping_address_id": 1,
+      "status": "delivery-pending",
+      "total_price": 100,
+      "payment_method": "wechat",
+      "order_create_time": "2021-09-01 12:00:00",
+      "order_payment_time": "2021-09-01 12:00:00",
+      "order_delivery_time": "2021-09-01 12:00:00",
+      "order_receive_time": "2021-09-01 12:00:00",
+      "order_cancel_time": "2021-09-01 12:00:00",
+      "order_cancel_reason": "不想要了",
+      "order_comment": "good",
+      "order_comment_time": "2021-09-01 12:00:00",
+      "order_comment_star": 5,
+      "points_earned": 100,
+      "vouchers_used": [
+        {
+          "voucher_id": 1,
+          "voucher_name": "满100减10",
+          "voucher_desc": "满100减10",
+          "voucher_price": 10
+        }
+      ]
+    }
+  ]
+}
